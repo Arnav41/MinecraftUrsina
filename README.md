@@ -8,5 +8,15 @@ i'm trying to recreate minecraft in URSINA engine, i could've also used pygame b
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 TO INSTALL URSINA JUST EXECUTE THIS COMMAND IN YOUR TERMINAL/POWERSHELL/CMD :-
 "  pip install ursina   "
